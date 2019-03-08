@@ -1,0 +1,2 @@
+site:	http://www.yadamooz.ir
+group:	http://groups.google.com/group/aut_computer_lab
